@@ -1,0 +1,10 @@
+epoch [1/10], train loss:0.3015, BCE loss:0.3015, KLD loss:14.8522
+epoch [2/10], train loss:0.2806, BCE loss:0.2627, KLD loss:0.1786
+epoch [3/10], train loss:0.2658, BCE loss:0.2580, KLD loss:0.0390
+epoch [4/10], train loss:0.2666, BCE loss:0.2575, KLD loss:0.0304
+epoch [5/10], train loss:0.2653, BCE loss:0.2543, KLD loss:0.0275
+epoch [6/10], train loss:0.2629, BCE loss:0.2507, KLD loss:0.0243
+epoch [7/10], train loss:0.2608, BCE loss:0.2483, KLD loss:0.0209
+epoch [8/10], train loss:0.2593, BCE loss:0.2464, KLD loss:0.0185
+epoch [9/10], train loss:0.2564, BCE loss:0.2423, KLD loss:0.0177
+epoch [10/10], train loss:0.2523, BCE loss:0.2370, KLD loss:0.0169
