@@ -1,3 +1,5 @@
+# Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+
 from io import open
 import glob
 import os
