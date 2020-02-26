@@ -1,4 +1,5 @@
 # Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+# A pytorch implementation
 
 from io import open
 import glob
