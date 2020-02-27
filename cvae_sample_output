@@ -18,3 +18,10 @@ epoch [17/20], train loss:0.0887, BCE loss:0.0701, KLD loss:0.0233
 epoch [18/20], train loss:0.0896, BCE loss:0.0711, KLD loss:0.0219
 epoch [19/20], train loss:0.0905, BCE loss:0.0721, KLD loss:0.0204
 epoch [20/20], train loss:0.0914, BCE loss:0.0731, KLD loss:0.0193
+
+
+
+(pytorch_env) [nvishwa@node0176 autoencoders]$ python infer_cvae.py 
+/home/nvishwa/.conda/envs/pytorch_env/lib/python3.7/site-packages/torch/serialization.py:434: SourceChangeWarning: source code of class '__main__.Autoencoder' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+Generating: tensor([7.], device='cuda:0')
