@@ -1,3 +1,5 @@
+# Sohn, Kihyuk, Honglak Lee, and Xinchen Yan. "Learning structured output representation using deep conditional generative models." Advances in neural information processing systems. 2015.
+# A pytorch implementation
 from io import open
 import glob
 import os
