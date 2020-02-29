@@ -174,4 +174,4 @@ def train(model, epoch):
 for epoch in range(num_epochs):
   tr_loss, BCE, KLD = train(model, epoch)
   print('epoch [{}/{}], train loss:{:.4f}, BCE loss:{:.4f}, KLD loss:{:.4f}'.format(epoch + 1, num_epochs, tr_loss, BCE, KLD))
-torch.save(model, 'vae.pt')
+torch.save(model, 'jmvae.pt')
