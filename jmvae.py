@@ -1,3 +1,5 @@
+# Suzuki, Masahiro, Kotaro Nakayama, and Yutaka Matsuo. "Joint multimodal learning with deep generative models." arXiv preprint arXiv:1611.01891 (2016).
+# A pytorch implementation
 from io import open
 import glob
 import os
