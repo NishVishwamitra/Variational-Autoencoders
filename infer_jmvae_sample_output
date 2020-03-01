@@ -1,0 +1,2 @@
+(pytorch_env) [nvishwa@node0097 autoencoders]$ python infer_jmvae.py 
+Label: tensor([3.], device='cuda:0') Predicted: tensor(3, device='cuda:0')
